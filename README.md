@@ -1,4 +1,11 @@
+
+
 # modal-project
+```
+my first vue app - learning the basics
+
+```
+
 
 ## Project setup
 ```
